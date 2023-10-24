@@ -1,0 +1,33 @@
+
+.container {
+  width: 450px;
+  margin: auto;
+  min-height: 300px;
+  text-align: center;
+}
+.btns {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.btn {
+  border-radius: 25px;
+  background-color: white;
+  width: 80%;
+  min-height: 30px;
+  margin: 5px;
+  justify-content: center;
+  display: flex;
+  text-decoration-line: none;
+}
+.btn-txt {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: bold;
+  color: rgb(59, 59, 59);
+}
+h2 {
+  color: rgb(187, 239, 255);
+}
