@@ -31,3 +31,9 @@
 h2 {
   color: rgb(187, 239, 255);
 }
+
+@media screen and (max-width: 767px) {
+  .container{
+    width: 345px;
+  }
+}
